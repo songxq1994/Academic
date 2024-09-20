@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xianqi Song"
-  pronouns         : "him"  
+  pronouns         : #"him"  
   bio              : "PostDoc. in condensed matter physics"
   location         : "Changchun, China"
   employer         : "Jilin University"
