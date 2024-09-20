@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Xianqi Song/ Site Title"
+locale                   : "zh-CN"
+title                    : "Dr. Song"
 title_separator          : "-"
 name                     : &name "Xianqi Song"
-description              : &description "personal description"
+description              : &description "Academic homepage"
 url                      : https://songxq1994.github.io/academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/songxq1994/academic.git"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xianqi Song"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "him"  
+  bio              : "PostDoc. in condensed matter physics"
   location         : "Changchun, China"
   employer         : "Jilin University"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com.hk/citations?user=FXOzSecAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-4758-5865"
-  semantic         : # URL
+  x-mol            : "https://www.x-mol.com/people/xianqi_song"
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Xianqi-Song-songxianqi"
 
